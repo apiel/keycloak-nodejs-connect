@@ -28,7 +28,7 @@
     <scm>
         <connection>scm:git:git://github.com/keycloak/keycloak-nodejs-connect.git</connection>
         <developerConnection>scm:git:git@github.com:keycloak/keycloak-nodejs-connect.git</developerConnection>
-        <url>https://github.com/keycloak/keycloak-nodejs-connect/tree/master/</url>
+        <url>https://github.com/keycloak/keycloak-nodejs-connect/tree/main/</url>
     </scm>
 
     <issueManagement>

@@ -32,8 +32,8 @@
     </scm>
 
     <issueManagement>
-        <system>JIRA</system>
-        <url>http://jira.jboss.com/jira/browse/KEYCLOAK</url>
+        <system>Github</system>
+        <url>https://github.com/keycloak/keycloak-nodejs-connect/issues</url>
     </issueManagement>
 
     <properties>
